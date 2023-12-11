@@ -1,0 +1,32 @@
+header {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: blue;
+  text-decoration: none;
+}
+
+#about {
+  padding: 16px;
+  color: #333;
+}
+
+#goods {
+  padding: 14px;
+  border: 3px solid red;
+  color: #666;
+  margin-top: 10px;
+}
+
+#contacts {
+  color: darkslateblue;
+  background-color: aqua;
+  padding: 5px;
+  margin-top: 15px;
+  border: 5px;
+  border-style: double;
+}
