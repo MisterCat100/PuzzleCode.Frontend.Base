@@ -1,0 +1,13 @@
+li:nth-child(2n) {
+  color: red;
+}
+
+li::marker{
+    color: aqua;
+    list-style-type: square;
+}
+
+input::placeholder
+{
+    color: blue;
+}
